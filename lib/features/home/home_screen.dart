@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
 
             children: [
-              Image ( image: NetworkImage('https://images.app.goo.gl/zWBMdYCG9U4RxeSG9'),),
+             Image.asset(AppAssets.imagePng),
                Text(
             'Hello , Welcome !',
             textAlign: TextAlign.center,

@@ -214,7 +214,7 @@ class _SignupScreenState extends State<SignupScreen> {
                         borderRadius: BorderRadius.circular(30),
                       ),
                       child: Text(
-                        'Login',
+                        'Sign Up',
                         textAlign: TextAlign.center,
                         style: baseTextStyle.copyWith(
                           fontWeight: FontWeight.w600,
